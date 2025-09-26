@@ -1,0 +1,14 @@
+idf_component_register(
+    SRCS
+        "src/codec/codecesp32comunication.cpp"
+        "src/codec/codecmessage.cpp"
+        "src/message/abstractmessage.cpp"
+        "src/message/commandsystemmessage.cpp"
+        "src/message/configsystemmessage.cpp"
+        "src/message/monitorsystemmessage.cpp"
+        "src/message/pingmessage.cpp"
+    INCLUDE_DIRS
+        "include"
+        "include/codec"
+        "include/message"
+)

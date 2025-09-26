@@ -1,0 +1,9 @@
+[submodule "components/ais_message"]
+	path = components/ais_message
+	url = https://bitbucket.minhphatsmarttech.online/scm/ais/ais_message.git
+[submodule "components/ais_commonlib"]
+	path = components/ais_commonlib
+	url = https://bitbucket.minhphatsmarttech.online/scm/ais/ais_commonlib.git
+[submodule "components/ais_framework"]
+	path = components/ais_framework
+	url = https://bitbucket.minhphatsmarttech.online/scm/ais/ais_framework.git
